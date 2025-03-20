@@ -1,0 +1,4 @@
+net\youssfi\kafkaspringcloudstream\events\PageEvent.class
+net\youssfi\kafkaspringcloudstream\KafkaSpringCloudStreamApplication.class
+net\youssfi\kafkaspringcloudstream\conrollers\PageEventController.class
+net\youssfi\kafkaspringcloudstream\handlers\PageEventHandler.class
